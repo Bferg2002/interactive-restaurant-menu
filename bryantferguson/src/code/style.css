@@ -6,15 +6,24 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #fdf8f3;
-  color: #2d2d2d;
+  background-color: #1F456E;
+  color: orange;
   line-height: 1.6;
   padding: 20px;
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .hero {
-  text-align: center;
+  text-align: center;  
   margin-bottom: 30px;
+  color: goldenrod;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
 }
 
 .hero h1 {
@@ -24,7 +33,7 @@ body {
 
 .hero p {
   font-size: 1.1rem;
-  color: #666;
+  color: goldenrod;
 }
 
 .menu-controls {
@@ -38,7 +47,7 @@ body {
 .menu-btn {
   padding: 12px 18px;
   border: none;
-  background-color: #2d6a4f;
+  background-color: goldenrod;
   color: white;
   border-radius: 8px;
   cursor: pointer;
@@ -46,7 +55,7 @@ body {
 }
 
 .menu-btn:hover {
-  background-color: #1b4332;
+  background-color: orange;
 }
 
 .menu-btn.active {
@@ -82,7 +91,7 @@ body {
 
 .menu-item p {
   margin-bottom: 10px;
-  color: #555;
+  color: goldenrod;
 }
 
 .price {
