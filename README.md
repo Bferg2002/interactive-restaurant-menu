@@ -1,6 +1,6 @@
 # Interactive-Restaurant-Menu
 
-# Suggested Repo Structure
+# Repo Structure
 
 ```text
 interactive-restaurant-menu/
@@ -647,9 +647,9 @@ If all of that works, your interactive menu is complete.
 
 # Stretch Challenges
 
-When you finish the follow-along version, choose at least one way to customize it.
+When you finish the follow-along version, complete the following stretch options.
 
-## Option 1: Create Your Own Restaurant Theme
+## Stretch 1: Create Your Own Restaurant Theme
 Change:
 
 - restaurant name
@@ -658,10 +658,10 @@ Change:
 - menu items
 - slogan
 
-## Option 2: Add Images
+## Stretch 2: Add Images
 Add an image for each menu item or a hero image for the restaurant.
 
-## Option 3: Add a Special Badge
+## Stretch 3: Add a Special Badge
 Add labels like:
 
 - Chef's Choice
@@ -669,12 +669,12 @@ Add labels like:
 - Vegetarian
 - Popular
 
-## Option 4: Add a Weekend Message
+## Stretch 4: Add a Weekend Message
 Make your brunch section display a message like:
 
 > Available Saturdays and Sundays only
 
-## Option 5: Add More Categories
+## Stretch 5: Add More Categories
 Examples:
 
 - Desserts
@@ -1062,39 +1062,3 @@ buttons.forEach(button => {
 
 ---
 
-# Optional Instructor Notes
-
-For your class flow, I would teach this repo in this order:
-
-**Day 1 / Live Follow-Along**
-
-* build HTML together
-* connect CSS
-* connect JavaScript with `console.log()`
-* explain `querySelector()` and `querySelectorAll()`
-
-**Day 2 / Guided Interactivity**
-
-* create `menuData`
-* build `displayMenu()`
-* test one category
-* connect buttons with `addEventListener()`
-
-**Day 3 / Customization**
-
-* students re-theme the restaurant
-* add custom categories or stretch features
-* polish styling and layout
-
----
-
-# Optional Add-On Files
-
-If you want, I can next turn this into a more complete **GitHub classroom-style repo package** with:
-
-* a polished instructor rubric
-* starter code version
-* completed solution version
-* 90-minute lab format
-* stretch goals section
-* troubleshooting guide for students who get stuck
